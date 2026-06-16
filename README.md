@@ -106,6 +106,8 @@ Uncover high-potential keywords to target and captivate your audience.
 
 - [Keywordideas.xyz](https://keywordideas.xyz/) - Get keyword suggestions based on a URL or example keyword from real Google search data.
   
+- [SellerMind](https://thesellermind.com) - Etsy keyword research with search volume, competition data, and an AI-assisted listing optimizer for indie Etsy sellers.
+
 ## Backlink Analysis
 
 Delve deep into your link profile and discover opportunities for growth and risk mitigation.
