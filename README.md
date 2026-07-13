@@ -226,6 +226,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [LibreCrawl](https://librecrawl.com/) - Free, open-source SEO crawler with unlimited URL crawling, JavaScript rendering via Playwright, and real-time memory profiling for enterprise-scale audits.
 
+- [XML Sitemap Generator](https://www.nasrtech.dev/tools/sitemap-generator/) - Free browser-based tool that builds a valid XML sitemap, HTML sitemap, and robots.txt from your URL list. Runs 100% client-side — no upload, no sign-up.
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
@@ -292,6 +294,8 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [Lighthouse Rich Result Checker](https://search.google.com/test/rich-results) - Tests whether your website is eligible for rich results in Google Search.
 
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
+
+- [NasrTech SEO Checker](https://www.nasrtech.dev/tools/seo-checker/) - Free on-page SEO audit for any URL — title, meta, headings, canonical, schema, Open Graph, robots.txt/sitemap, security headers, AI-crawler access and Lighthouse speed, with a 0-100 score. No sign-up.
 
 
 ## Social Media & Open Graph
